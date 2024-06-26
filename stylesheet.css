@@ -81,6 +81,7 @@
     justify-content: flex-end;
     width: 100%;
     margin-top: 10vh;
+    margin-right: 10vh;
 }
 .background-color-setter{
     background-color: #7fc0b8;
